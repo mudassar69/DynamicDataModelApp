@@ -1,0 +1,83 @@
+{
+  "name": "Number Statistics",
+  "fields": {
+    "number1": {
+      "label": "Number 1",
+      "type": "int",
+      "readOnly": false,
+      "calculate": null
+    },
+    "number2": {
+      "label": "Number 2",
+      "type": "int",
+      "readOnly": false,
+      "calculate": null
+    },
+    "number3": {
+      "label": "Number 3",
+      "type": "int",
+      "readOnly": false,
+      "calculate": null
+    },
+    "number4": {
+      "label": "Number 4",
+      "type": "int",
+      "readOnly": false,
+      "calculate": null
+    },
+    "number5": {
+      "label": "Number 5",
+      "type": "int",
+      "readOnly": false,
+      "calculate": null
+    },
+    "number6": {
+      "label": "Number 6",
+      "type": "int",
+      "readOnly": false,
+      "calculate": null
+    },
+    "number7": {
+      "label": "Number 7",
+      "type": "int",
+      "readOnly": false,
+      "calculate": null
+    },
+    "number8": {
+      "label": "Number 8",
+      "type": "int",
+      "readOnly": false,
+      "calculate": null
+    },
+    "number9": {
+      "label": "Number 9",
+      "type": "int",
+      "readOnly": false,
+      "calculate": null
+    },
+    "number10": {
+      "label": "Number 10",
+      "type": "int",
+      "readOnly": false,
+      "calculate": null
+    },
+    "mean": {
+      "label": "Mean",
+      "type": "float",
+      "readOnly": true,
+      "calculate": "mean"
+    },
+    "median": {
+      "label": "Median",
+      "type": "float",
+      "readOnly": true,
+      "calculate": "median"
+    },
+    "stddev": {
+      "label": "Standard Deviation",
+      "type": "float",
+      "readOnly": true,
+      "calculate": "stddev"
+    }
+  }
+}
